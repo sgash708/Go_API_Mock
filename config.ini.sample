@@ -1,0 +1,5 @@
+[chatwork]
+token   = your_token
+url     = https://api.chatwork.com/v2/rooms/111111111/messages
+message = `[toall]
+実行日時：`
